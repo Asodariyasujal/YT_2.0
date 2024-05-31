@@ -45,9 +45,7 @@ This project is a YouTube clone that replicates various functionalities of the p
 - Watch videos, engage with live comments, and like/dislike videos.
 - Check out the recommended videos for personalized suggestions.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request.
 
 
           
